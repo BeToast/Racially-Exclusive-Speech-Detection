@@ -1,0 +1,43 @@
+For the purpose of classifying sentences as racially inclusive or exclusive, Generate more data like the data I already have. Exclusive with an Inclusive alternative.
+
+Exclusive examples:
+African immigrants are only able to seek unqualified jobs.
+African Americans are always on welfare.
+He looks Middle Eastern so he is probably here illegaly.
+Oriental people built the transcontinental railroad.
+Everything is fair, I do not see color.
+Indians love curry.
+Asians are smart.
+White people have the same ethnicity.
+All white people are oppressors.
+African Americans score lower on school testing.
+Indians do not use cutlery.
+Italians stuff themselves with food.
+Irish are drunks.
+Latino workers are only good for manual labor.
+Native Americans are a dying race.
+All Muslim people are terrorists.
+The African continent is nothing but war and poverty.
+The Jewish community only cares about money.
+All Hispanic people are illegal immigrants.
+
+Inclusive examples:
+Structural aspects, such as a lack of equal opportunities, lead to African migrants being overrepresented in unqualified jobs.
+African Americans in the states rely on the welfare system often because of past oppression.
+It must be difficult for Middle Easterns to immigrate due to a bad historical reputation.
+Many Asian American people contributed to building the transcontinental railroad.
+I believe in a future of equal opportunity.
+It is typical for Indians to enjoy curry because of their culture.
+Asian students are common in higher edjucation, because of a disciplined and hard-working culture.
+White people are ethnically similar due to common origins.
+White people inherently benefit from being dominant in a biased system.
+Due to systemic racism, public edjucation in African American communites is worse in quality and leads to lower testing scores.
+Indians may prefer to eat with their hands.
+Italians are from a culture that enjoys cooking for eachother.
+People drink in Ireland more than average because of pub culture.
+Latino workers bring a strong work ethic and valuable skills to various industries.
+Native American cultures are rich and diverse, but are often underrepresented and facing challenges.
+Not all Muslim people are terrorists and it's harmful to stereotype them as such.
+The African continent is home to diverse cultures and nations, some of which face challenges like poverty and conflict.
+The Jewish community is varied and has a deep history and culture.
+All people, regardless of citizenship or documentation, should be treated with respect and dignity.
