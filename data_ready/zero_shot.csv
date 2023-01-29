@@ -84,7 +84,7 @@ African people are poor and uneducated.,exclusive
 "Africans are just primitives, living in the jungle.",exclusive
 Russian people are vodka-loving drunks.,exclusive
 Les immigrés africains ne peuvent chercher que des emplois non qualifiés.,exclusive
-Les Afro-Américains sont toujours assistés sociaux.,exclusive
+Les Afro-Américains sont toujours des assistés sociaux.,exclusive
 Il a l'air du Moyen-Orient donc il est probablement ici illégalement.,exclusive
 Les Orientaux ont construit le chemin de fer transcontinental.,exclusive
 "Tout est juste, je ne vois pas de couleur.",exclusive
@@ -106,7 +106,7 @@ La communauté noire est toujours à la recherche de cadeaux.,exclusive
 Tous les peuples du Moyen-Orient sont hostiles.,exclusive
 Les gens de couleur ne sont pas assez intelligents pour l'enseignement supérieur.,exclusive
 Toute la culture africaine est primitive et arriérée.,exclusive
-La culture arabe est faite d'oppression des femmes.,exclusive
+La culture arabe est construite sur l’oppression des femmes.,exclusive
 La culture asiatique est juste une question d'obéissance et de soumission.,exclusive
 "La culture latino, c'est la fête et la paresse.",exclusive
 La culture autochtone n'est plus pertinente dans la société d'aujourd'hui.,exclusive
@@ -139,7 +139,7 @@ Les Péruviens ne sont bons que pour travailler dans les fermes.,exclusive
 Les Colombiens sont tous des trafiquants de drogue.,exclusive
 Les Chiliens sont socialistes.,exclusive
 Les Californiens sont superficiels et matérialistes.,exclusive
-"Les Texans sont fiers, redneck et armer.",exclusive
+"Les Texans sont fiers, beauf et armés.",exclusive
 Les Irlandais ne cultivent et ne boivent que du whisky.,exclusive
 Les Allemands sont rigides et manquent de créativité.,exclusive
 Les Français ne sont que superficialité et mode de vie superficiel.,exclusive
@@ -253,7 +253,7 @@ The diverse cultures in Africa are much more valuable and complex than primitive
 "Russian people are diverse and come from different backgrounds, it's unfair to stereotype them as vodka-loving drunks.",inclusive
 "Les aspects structurels, tels que le manque d'égalité des chances, conduisent à une surreprésentation des migrants africains dans les emplois non qualifiés.",inclusive
 Les Afro-Américains dans les États dépendent du système de protection sociale souvent en raison de l'oppression passée.,inclusive
-Il doit être difficile pour les Moyen-orientaux d'immigrer à cause d'une mauvaise réputation historique.,inclusive
+Il doit être difficile pour les personnes venant du Moyen-Orient d'immigrer à cause d'une mauvaise réputation historique.,inclusive
 De nombreux Américains d’origine asiatique ont contribué à la construction du chemin de fer transcontinental.,inclusive
 Je crois en un avenir d'égalité des chances.,inclusive
 Il est typique pour les Indiens d'apprécier le curry en raison de leur culture.,inclusive
@@ -268,20 +268,20 @@ Les travailleurs latino-américains apportent une solide éthique de travail et 
 "Les cultures amérindiennes sont riches et diverses, mais elles sont souvent sous-représentées et confrontées à des défis.",inclusive
 Tous les musulmans ne sont pas des terroristes et il est nuisible de les stéréotyper en tant que tels.,inclusive
 "Le continent africain abrite des cultures et des nations diverses, dont certaines sont confrontées à des défis tels que la pauvreté et les conflits.",inclusive
-La communauté juive est variée et possède une histoire et une culture profondes.,inclusive
+La communauté juive est variée et possède une histoire et une culture profonde.,inclusive
 "Toutes les personnes, indépendamment de leur citoyenneté ou de leurs papiers, doivent être traitées avec respect et dignité.",inclusive
-"La communauté noire, comme toutes les communautés, a une population diversifiée avec des expériences et des besoins variés.",inclusive
-"Tous les gens du Moyen-Orient ne sont pas hostiles, et il est nuisible de les stéréotyper en tant que tels.",inclusive
+"La communauté noire, comme toutes les communautés, à une population diversifiée avec des expériences et des besoins variés.",inclusive
+"Tous les gens du Moyen-Orient ne sont pas hostiles, et il est nuisible de les stéréotyper en tant que tel.",inclusive
 "Les personnes de couleur ont des expériences, des aptitudes et des potentiels divers et devraient avoir des chances égales d'accéder à l'enseignement supérieur.",inclusive
 "La culture africaine est riche et diversifiée, avec un large éventail de traditions et de coutumes.",inclusive
 "La culture arabe est diverse, avec différentes sociétés et cultures ayant différentes valeurs et pratiques.",inclusive
 "La culture asiatique englobe une grande variété de coutumes, de traditions et de langues.",inclusive
 "La culture latino est riche et variée, avec différents pays et régions ayant leurs propres coutumes et traditions.",inclusive
-Les cultures autochtones ont beaucoup d'histoire et de connaissances qui devraient être respectées et dont on devrait tirer des leçons.,inclusive
+Les cultures autochtones ont beaucoup d'histoire et de connaissances qui devraient être respectées et dont on devrait en tirer des leçons.,inclusive
 Toutes les cultures doivent être respectées et célébrées pour leurs contributions et leurs traditions uniques.,inclusive
 "Les cultures minoritaires doivent être respectées et préservées, mais elles doivent aussi pouvoir évoluer et s'assimiler à leur manière, sans aucune pression d'adaptation à une culture dominante.",inclusive
 Les gens des Caraïbes ont des origines diverses et ne devraient pas être généralisés comme des trafiquants de drogue.,inclusive
-"Les gens du Moyen-Orient ont des cultures, des origines et des expériences différentes et ils ne sont pas tous des terroristes.",inclusive
+"Les personnes venant du Moyen-Orient ont des cultures, des origines et des expériences différentes et ils ne sont pas tous des terroristes.",inclusive
 "Les Juifs ont un groupe diversifié d'individus, de cultures et d'origines, et ils ne sont pas tous cupides.",inclusive
 "Tous les musulmans ne sont pas des extrémistes, et il est important de comprendre les complexités des différentes sociétés et cultures musulmanes.",inclusive
 "Les peuples asiatiques ont des cultures et des origines diverses, et certains peuvent être timides ou calmes, d'autres peuvent être extravertis.",inclusive
@@ -321,7 +321,7 @@ Les habitants du Gujarat sont connus pour leur esprit d’entreprise et leur cul
 "Les habitants du Bengale occidental ont une histoire et une culture riches, avec un fort accent sur la littérature et l'art.",inclusive
 "Les habitants du Kerala ont une culture et des origines diverses, et sont connus pour leur riche patrimoine et leurs coutumes traditionnelles.",inclusive
 "La culture chinoise a une histoire profonde, riche en traditions et coutumes, y compris la cuisine et l'art traditionnels.",inclusive
-"La culture japonaise est bien connue pour son raffinement et sa discipline que l'on retrouve dans ses formes d'art traditionnel, son architecture et sa musique.",inclusive
+"La culture japonaise est bien connue pour son raffinement et sa discipline que l'on retrouve dans ses formes d'art traditionnels, son architecture et sa musique.",inclusive
 "La culture sud-coréenne est très développée et dynamique, réputée pour sa technologie de pointe et sa culture pop captivante.",inclusive
 "La culture singapourienne est un creuset de différentes ethnies, connues pour leur multiculturalisme et leur prospérité économique.",inclusive
 "La culture philippine possède un riche patrimoine culturel, avec de la musique traditionnelle, de la danse et des mets raffinés.",inclusive
