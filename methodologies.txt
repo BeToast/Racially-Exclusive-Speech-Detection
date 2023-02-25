@@ -1,0 +1,17 @@
+Manually create 40pairs in English based on European Commission and American Physiological Association
+Peer review and Reduce to 13pairs english sentences pairs.
+Seeding with these quality examples use GPT-3 to generate more sentences.
+Manually review all GPT generated examples. reduce to 71 sentence pairs
+Combine new 17 with origional 13 to have 84pairs.
+Translate into french (systran.net)
+Peer review/correct french translation by two native french speakers.
+combine french84 and english84 pairs to make multilingual dataset with 168pairs(binary class multilingal balanced dataset 336 examples total)
+Split into 3 folds. each fold has: 224 test,
+	for training a 'quad' is : (eng inclusive, eng exclusive, fr inclusive translation, fr exclusive translation)
+	train sets:
+		2quads(8 train)
+		4quads(16 train)
+		8quads(32 train)
+		16quads(64 train)
+	each quad is used only once throughout all train sets.
+
