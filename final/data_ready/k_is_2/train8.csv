@@ -1,33 +1,33 @@
-text,class
-Some Asians may excel academically and may also have unique talents and skills in other areas like creativity or leadership.,1
-"Asians are academically gifted, but lack creativity.",0
-Certains Asiatiques peuvent exceller académiquement et peuvent également avoir des talents et des compétences uniques dans d'autres domaines tels que la créativité ou le leadership.,1
-"Les Asiatiques ont un talent académique, mais manquent de créativité.",0
-White people are ethnically similar due to common origins.,1
-White people have the same ethnicity.,0
-Les Blancs sont ethniquement semblables en raison de leurs origines communes.,1
-Les Blancs ont la même ethnicité.,0
-"People from Kerala have a diverse culture and backgrounds, and are known for their rich heritage and traditional customs.",1
-Keralites are just farmers and fishermen and lack any cultural identity.,0
-"Les habitants du Kerala ont une culture et des origines diverses, et sont connus pour leur riche patrimoine et leurs coutumes traditionnelles.",1
-Les kéralites ne sont que des agriculteurs et des pêcheurs et n'ont aucune identité culturelle.,0
-Not all Muslim people are terrorists and it's harmful to stereotype them as such.,1
-All Muslim people are terrorists.,0
-Tous les musulmans ne sont pas des terroristes et il est nuisible de les stéréotyper en tant que tels.,1
-Tous les musulmans sont des terroristes.,0
-The Jewish community is varied and has a deep history and culture.,1
-The Jewish community only cares about money.,0
-La communauté juive est variée et possède une histoire et une culture profonde.,1
-La communauté juive ne s'intéresse qu'à l'argent.,0
-Indigenous cultures have a lot of history and knowledge that should be respected and learned from.,1
-Indigenous culture is irrelevant in today's society.,0
-Les cultures autochtones ont beaucoup d'histoire et de connaissances qui devraient être respectées et dont on devrait en tirer des leçons.,1
-La culture autochtone n'est plus pertinente dans la société d'aujourd'hui.,0
-"Canadians from Quebec have a unique culture and language, and while some may be more assertive, it is unfair to stereotype them as arrogant.",1
-Canadians from Quebec are arrogant and difficult to understand.,0
-"Les Canadiens du Québec ont une culture et une langue uniques, et même si certains peuvent être plus affirmés, il est injuste de les stéréotyper comme étant arrogants.",1
-Les Québécois sont arrogants et difficiles à comprendre.,0
-"Polish culture is known for its rich history, literature, and art and also for its hearty cuisine and traditional customs.",1
-Polish people are uneducated and only interested in food.,0
-"La culture polonaise est connue pour sa riche histoire, sa littérature et son art, mais aussi pour sa cuisine copieuse et ses coutumes traditionnelles.",1
-Les Polonais ne sont pas éduqués et ne s'intéressent qu'à la nourriture.,0
+text,lang,class
+Many Asian American people contributed to building the transcontinental railroad.,en,1
+Oriental people built the transcontinental railroad.,en,0
+De nombreux Américains d’origine asiatique ont contribué à la construction du chemin de fer transcontinental.,fr,1
+Les Orientaux ont construit le chemin de fer transcontinental.,fr,0
+"Middle Eastern cuisine is diverse, with a variety of flavors, spices, and ingredients.",en,1
+Middle Eastern cuisine is just bland and greasy.,en,0
+"La cuisine du Moyen-Orient est variée, avec une variété de saveurs, d'épices et d'ingrédients.",fr,1
+La cuisine du Moyen-Orient est juste fade et grasse.,fr,0
+"Due to systemic racism, public edjucation in African American communites is worse in quality and leads to lower testing scores.",en,1
+African Americans score lower on school testing.,en,0
+"En raison du racisme systémique, l’éducation publique dans les communautés afro-américaines est de moins bonne qualité et conduit à des résultats de test plus faibles.",fr,1
+Les Afro-Américains obtiennent de moins bons résultats aux tests scolaires.,fr,0
+"Arab culture is diverse, with different societies and cultures having different values and practices.",en,1
+Arab culture is all about oppression of women.,en,0
+"La culture arabe est diverse, avec différentes sociétés et cultures ayant différentes valeurs et pratiques.",fr,1
+La culture arabe est construite sur l’oppression des femmes.,fr,0
+"African people are diverse and come from different socio-economic backgrounds, it's unfair to stereotype them as poor and uneducated.",en,1
+African people are poor and uneducated.,en,0
+"Les Africains sont divers et viennent de milieux socio-économiques différents, il est injuste de les stéréotyper comme pauvres et non éduqués.",fr,1
+Les Africains sont pauvres et sans instruction.,fr,0
+"People from West Bengal have a rich history and culture, with a strong emphasis on literature and art.",en,1
+West Bengal people are all into politics and not interested in culture.,en,0
+"Les habitants du Bengale occidental ont une histoire et une culture riches, avec un fort accent sur la littérature et l'art.",fr,1
+Les habitants du Bengale-Occidental s'intéressent tous à la politique et pas à la culture.,fr,0
+"Chinese culture has a deep-rooted history, full of tradition and customs, including traditional cuisine and art.",en,1
+"Chinese culture is all about economic advancement, devoid of cultural traditions.",en,0
+"La culture chinoise a une histoire profonde, riche en traditions et coutumes, y compris la cuisine et l'art traditionnels.",fr,1
+"La culture chinoise est une affaire de progrès économique, dépourvue de traditions culturelles.",fr,0
+"French culture is known for its fashion, wine and food but also for its art, literature and philosophy.",en,1
+French culture is only about fashion and wine.,en,0
+"La culture française est connue pour sa mode, ses vins et sa gastronomie mais aussi pour son art, sa littérature et sa philosophie.",fr,1
+La culture française ne parle que de mode et de vin.,fr,0

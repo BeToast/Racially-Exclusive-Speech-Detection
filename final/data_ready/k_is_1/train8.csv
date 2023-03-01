@@ -1,33 +1,33 @@
-text,class
-"Not all Muslim people are extremists, and it's important to understand the complexities of different Muslim societies and cultures.",1
-Muslim people are extremists.,0
-"Tous les musulmans ne sont pas des extrémistes, et il est important de comprendre les complexités des différentes sociétés et cultures musulmanes.",1
-Les musulmans sont des extrémistes.,0
-African Americans in the states rely on the welfare system often because of past oppression.,1
-African Americans are always on welfare.,0
-Les Afro-Américains dans les États dépendent du système de protection sociale souvent en raison de l'oppression passée.,1
-Les Afro-Américains sont toujours des assistés sociaux.,0
-White people inherently benefit from being dominant in a biased system.,1
-All white people are oppressors.,0
-Les Blancs bénéficient intrinsèquement d'être dominants dans un système biaisé.,1
-Tous les blancs sont des oppresseurs.,0
-"South Korean culture is highly developed and dynamic, renowned for its cutting-edge technology and captivating pop culture.",1
-"Korean culture is undisciplined, not having any real culture.",0
-"La culture sud-coréenne est très développée et dynamique, réputée pour sa technologie de pointe et sa culture pop captivante.",1
-"La culture coréenne est indisciplinée, n'ayant aucune vraie culture.",0
-"Filipino culture has a rich cultural heritage, with vibrant traditional music, dance, and delicacies.",1
-Filipino culture is not sophisticated and lacks any real culture.,0
-"La culture philippine possède un riche patrimoine culturel, avec de la musique traditionnelle, de la danse et des mets raffinés.",1
-La culture philippine n'est pas sophistiquée et manque d'une véritable culture.,0
-"French culture is known for its fashion, food and wine, but also for its deep-rooted philosophy and literature.",1
-French people are all about superficiality and superficial lifestyle.,0
-"La culture française est connue pour sa mode, sa gastronomie et son vin, mais aussi pour sa philosophie et sa littérature profondément enracinées.",1
-Les Français ne sont que superficialité et mode de vie superficiel.,0
-"Colombia has a complex history and society, and it's unfair to stereotype all Colombians as drug traffickers.",1
-Colombians are all drug traffickers.,0
-"La Colombie a une histoire et une société complexes, et il est injuste de stéréotyper tous les Colombiens comme des trafiquants de drogue.",1
-Les Colombiens sont tous des trafiquants de drogue.,0
-"The Inuit people have a rich and diverse culture, which includes hunting, fishing, and gathering, but also includes art, literature, and other forms of expression.",1
-Inuit people live in igloos and hunt for seals.,0
-"Les Inuits ont une culture riche et diversifiée, qui comprend la chasse, la pêche et la cueillette, mais aussi l'art, la littérature et d'autres formes d'expression.",1
-Les Inuits vivent dans des igloos et chassent le phoque.,0
+text,lang,class
+"Latino culture is rich and varied, with different countries and regions having their own customs and traditions.",en,1
+Latino culture is just about partying and laziness.,en,0
+"La culture latino est riche et variée, avec différents pays et régions ayant leurs propres coutumes et traditions.",fr,1
+"La culture latino, c'est la fête et la paresse.",fr,0
+Peruvians hold a variety of jobs.,en,1
+Peruvians are only good for working on farms.,en,0
+Les Péruviens occupent des emplois variés.,fr,1
+Les Péruviens ne sont bons que pour travailler dans les fermes.,fr,0
+"People from Maharashtra have a diverse range of cultures, languages and customs.",en,1
+Maharashtrians are only interested in money and materialism.,en,0
+"Les habitants du Maharashtra ont une grande diversité de cultures, de langues et de coutumes.",fr,1
+Les Maharashtriens ne s'intéressent qu'à l'argent et au matérialisme.,fr,0
+People from Chile hold various economic opinions.,en,1
+Chileans are socialist.,en,0
+Les Chiliens ont des opinions économiques variées.,fr,1
+Les Chiliens sont socialistes.,fr,0
+People living in Texas can be vastly different.,en,1
+"Texans are proud, redneck, and gun-toting.",en,0
+Les gens qui vivent au Texas peuvent être très différents.,fr,1
+"Les Texans sont fiers, beauf et armés.",fr,0
+All cultures should be respected and celebrated for their unique contributions and traditions.,en,1
+White culture is superior to all others.,en,0
+Toutes les cultures doivent être respectées et célébrées pour leurs contributions et leurs traditions uniques.,fr,1
+La culture blanche est supérieure à toutes les autres.,fr,0
+Latino workers bring a strong work ethic and valuable skills to various industries.,en,1
+Latino workers are only good for manual labor.,en,0
+Les travailleurs latino-américains apportent une solide éthique de travail et de précieuses compétences à diverses industries.,fr,1
+Les travailleurs latinos ne sont bons que pour le travail manuel.,fr,0
+"The Sahara Desert is not just a desert, but it is also home to diverse cultures, traditional nomadic tribes and rich history.",en,1
+The only thing that can be found in the Sahara Desert is sand.,en,0
+"Le désert du Sahara n'est pas seulement un désert, mais il abrite également des cultures diverses, des tribus nomades traditionnelles et une riche histoire.",fr,1
+La seule chose que l'on peut trouver dans le désert du Sahara est le sable.,fr,0
