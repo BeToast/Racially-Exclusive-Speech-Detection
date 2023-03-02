@@ -14,4 +14,3 @@ Split into 3 folds. each fold has: 224 test,
 		8quads(32 train)
 		16quads(64 train)
 	each quad is used only once throughout all train sets.
-
