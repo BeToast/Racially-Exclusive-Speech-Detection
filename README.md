@@ -1,5 +1,6 @@
 This is the github for my final year thesis at University of Galway, Ireland.  
-This research was on binary classification of racially/culturally inclusive/exclusive speech using zero-shot and few-shot learning.
+This research was on binary classification of racially/culturally inclusive/exclusive speech using zero-shot and few-shot learning.  
+- Slides from my oral presentation: [google slides](https://docs.google.com/presentation/d/13HeoOFVKspvsqmpiliu4R1IgFx8KXomCd52YqrSUCBQ/edit?usp=sharing)
 
 #### Usage
 You can access the best performing model on [Huggingface](https://huggingface.co/BeToast/xml_xnli__inclusiveORexclusive__binary_classification__frenchANDenglish)  
